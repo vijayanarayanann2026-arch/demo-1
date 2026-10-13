@@ -4,7 +4,8 @@ kavin=gay
 jii=kiii
 nigga=p 
 vijay=gay
-sandy=straight
+sandy=gay
+
 
 
 
