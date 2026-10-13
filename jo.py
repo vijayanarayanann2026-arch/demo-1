@@ -3,6 +3,8 @@ hiiii=nigga
 kavin=gay
 jii=kiii
 nigga=p 
+vijay=gay
+sandy=straight
 
 
 
